@@ -28,6 +28,6 @@
 
 ----------------------------------------------------------------
 # 성능표
-| Name | week | Model | Optimizer | Batch size | learning rate | scheduler | Epochs | Overall 3D AP@40 | easy | moderate | hard |
-|:---: | :---: | :---: | :--------:| :---------:| :-----------: | :-------: | :----: | :--------------: | :--: | :------: | :--: |
-| X | 8 | Baseline | AdamW | 6 | 0.001 | CosineAnnealingLR | 160 | | 65.5701 | 54.9237 | 51.5132 |
+| Name | Week | Model | Optimizer | Batch size | Learning rate | Scheduler | Epochs | Overall 3D AP@40 | Easy | Moderate | Hard | Model | 
+|:---: | :---: | :---: | :--------:| :---------:| :-----------: | :-------: | :----: | :--------------: | :--: | :------: | :--: | :--: |
+| X | 8 | Baseline | AdamW | 6 | 0.001 | CosineAnnealingLR | 160 | | 65.5701 | 54.9237 | 51.5132 | [Model](https://drive.google.com/file/d/1TnQbvm3nCYMMiUrO_cu2UBM86FeF9itQ/view?usp=sharing)
