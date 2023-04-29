@@ -22,7 +22,7 @@
 | 백근주 | 9 | PillarNet 논문, CenterPoint 논문 → CenterPoint KITTI로 확인 | [Paper](https://arxiv.org/pdf/2205.07403.pdf) |
 | 김대식 | 9 | PointPillar의 backbone에 따른 성능 및 속도 차이 관련 논문 → CSPdarknet으로 성능 향상 확인 | [Paper](https://arxiv.org/pdf/2209.15252.pdf) |
 | 김동영 | 9 | PointPillar의 backbone에 따른 성능 및 속도 차이 관련 논문 → CSPdarknet으로 성능 향상 확인 | [Paper](https://arxiv.org/pdf/2209.15252.pdf) |
-| 박준서 | 9 | Point cloud 에서 MixUp이 가능함 → 관련해서 구현 및 성능 변화 확인 | [Paper](https://arxiv.org/pdf/2008.06374.pdf) |
+| 박준서 | 9 | Point cloud 에서 MixUp이 가능함 → Xception 관련해서 구현 및 성능 변화 확인 | [Paper](https://arxiv.org/pdf/2008.06374.pdf) |
 | 박민배 | 9 | BatchNorm 적용 위해서 Batch size, Optimizer, 등 기본적인 하이퍼파라미터 튜닝 | [Paper](https://arxiv.org/pdf/1502.03167.pdf) |
 
 
