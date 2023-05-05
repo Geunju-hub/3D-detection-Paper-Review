@@ -24,7 +24,7 @@
 | 김동영 | 9 | PointPillar의 backbone에 따른 성능 및 속도 차이 관련 논문 → CSPdarknet으로 성능 향상 확인 | [Paper](https://arxiv.org/pdf/2209.15252.pdf) |
 | 박준서 | 9 | Point cloud 에서 MixUp이 가능함 → Xception 관련해서 구현 및 성능 변화 확인 | [Paper](https://arxiv.org/pdf/2008.06374.pdf) |
 | 박민배 | 9 | BatchNorm 적용 위해서 Batch size, Optimizer, 등 기본적인 하이퍼파라미터 튜닝 | [Paper](https://arxiv.org/pdf/1502.03167.pdf) |
-| 백근주 | 10 | PointPillars + CenterHead 성능 확인(진행 중) + Sparse Conv based Backbone 추가 | [Paper](https://arxiv.org/pdf/2205.07403.pdf) |
+| 백근주 | 10 | PointPillars + CenterHead 성능 확인(진행 중) + Sparse Conv based Backbone 추가 + Dynamic Voxelization | [Paper](https://arxiv.org/pdf/2205.07403.pdf) |
 | 김대식 | 10 | InceptionV3 구현 | X
 | 김동영 | 10 | CSPDarknet + Sparse Conv 구현 | X
 | 박준서 | 10 | MMdetection3d의 Data Augmentation 증강 추가 | X
@@ -39,6 +39,6 @@
 | 백근주 | 9 | PointPillars + CenterHead | X | AdamW | 6 | 0.001 | CosineAnnealingLR | 160 | | 66.9484 | 55.3218 | 52.2746 | [Model](https://drive.google.com/file/d/1-eSuQaZbowHk_bxLbCrasmnZOiXLcrJ9/view?usp=sharing)
 | 백근주 | 9 | Baseline | O | AdamW | 6 | 0.001 | CosineAnnealingLR | 160 | | 76.5073 | 64.7261 | 61.3703 | [Model](https://drive.google.com/file/d/10bbZDvSeEzf0Us2Sbwi1s0wEKbks4GIj/view?usp=sharing)
 | 김동영 | 9 | PointPillars + CSPDarknet backbone | O | AdamW | 6 | 0.001 | CosineAnnealingLR | 160 | | | | | [Model]()
-| 김대식 | 9 | PointPillars + Xception backbone | O | AdamW | 6 | 0.001 | CosineAnnealingLR | 160 | | | | | [Model]()
+| 김대식 | 9 | PointPillars + Xception backbone | O | AdamW | 6 | 0.001 | CosineAnnealingLR | 160 | | 71.2553 | 57.8940 | 53.9587 | [Model](https://drive.google.com/file/d/11xA29l78re9814iWg-P13SVgOj6E5Das/view?usp=sharing)
 | 박준서 | 9 | PointPillars + Data Augmentation | O | AdamW | 6 | 0.001 | CosineAnnealingLR | 160 | | | | | [Model]()
 | 박민배 | 9 | PointPillars | O | AdamW | 10 | 0.001 | CosineAnnealingLR | 160 | | | | | [Model]()
