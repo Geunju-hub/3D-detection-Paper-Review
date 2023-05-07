@@ -44,5 +44,3 @@
 | 박준서 | 9 | PointPillars + Data Augmentation | O | AdamW | 6 | 0.001 | CosineAnnealingLR | 160 | | | | | [Model]()
 | 박민배 | 9 | PointPillars | O | AdamW | 10 | 0.001 | CosineAnnealingLR | 160 | | | | | [Model]()
 | 백근주 | 10 | PointPillars + Dynamic Voxelization | O | AdamW | 6 | 0.001 | CosineAnnealingLR | 160 | | 75.4072 | 63.8551 | 60.1609 | [Model](https://drive.google.com/file/d/1-G6D4yBrJjnq0wCQilm6r5uOaH_nLf8v/view?usp=sharing)
-
-72.5513, 61.0547, 58.1883
