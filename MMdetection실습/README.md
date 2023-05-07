@@ -38,8 +38,11 @@
 | X | 8 | Baseline | X |AdamW | 6 | 0.001 | CosineAnnealingLR | 160 | | 65.5701 | 54.9237 | 51.5132 | [Model](https://drive.google.com/file/d/1TnQbvm3nCYMMiUrO_cu2UBM86FeF9itQ/view?usp=sharing)
 | 백근주 | 9 | PointPillars + CenterHead | X | AdamW | 6 | 0.001 | CosineAnnealingLR | 160 | | 66.9484 | 55.3218 | 52.2746 | [Model](https://drive.google.com/file/d/1-eSuQaZbowHk_bxLbCrasmnZOiXLcrJ9/view?usp=sharing)
 | 백근주 | 9 | Baseline | O | AdamW | 6 | 0.001 | CosineAnnealingLR | 160 | | 76.5073 | 64.7261 | 61.3703 | [Model](https://drive.google.com/file/d/10bbZDvSeEzf0Us2Sbwi1s0wEKbks4GIj/view?usp=sharing)
+| 백근주 | 9 | PointPillars + CenterHead | O | AdamW | 6 | 0.001 | CosineAnnealingLR | 160 | | 72.5513 | 61.0547 | 58.1883 | [Model](https://drive.google.com/file/d/1-oJ0zOzgoKC9yhGmo44t8iLo5qSs2YEV/view?usp=sharing)
 | 김동영 | 9 | PointPillars + CSPDarknet backbone | O | AdamW | 6 | 0.001 | CosineAnnealingLR | 160 | | | | | [Model]()
 | 김대식 | 9 | PointPillars + Xception backbone | O | AdamW | 6 | 0.001 | CosineAnnealingLR | 160 | | 71.2553 | 57.8940 | 53.9587 | [Model](https://drive.google.com/file/d/11xA29l78re9814iWg-P13SVgOj6E5Das/view?usp=sharing)
 | 박준서 | 9 | PointPillars + Data Augmentation | O | AdamW | 6 | 0.001 | CosineAnnealingLR | 160 | | | | | [Model]()
 | 박민배 | 9 | PointPillars | O | AdamW | 10 | 0.001 | CosineAnnealingLR | 160 | | | | | [Model]()
 | 백근주 | 10 | PointPillars + Dynamic Voxelization | O | AdamW | 6 | 0.001 | CosineAnnealingLR | 160 | | 75.4072 | 63.8551 | 60.1609 | [Model](https://drive.google.com/file/d/1-G6D4yBrJjnq0wCQilm6r5uOaH_nLf8v/view?usp=sharing)
+
+72.5513, 61.0547, 58.1883
