@@ -13,3 +13,6 @@ Sejong creative semester system - 3D detection Paper Review
 |7     | MMdetection3D를 이용한 실습 - (1) - 환경세팅             | X | 2023.04.13 | X
 |8     | MMdetection3D를 이용한 실습 - (2) - Baseline 구축        | X | 2023.04.19 | X
 |9     | MMdetection3D를 이용한 실습 - (3) - 모델 성능 개선(1)    | X | 2023.04.26 | X
+|11     | MMdetection3D를 이용한 실습 - (3) - 모델 성능 개선(2)    | X | 2023.05.16 | X
+|12     | MMdetection3D를 이용한 실습 - (3) - 모델 성능 개선(3)    | X | 2023.05.22 | X
+|14     | MMdetection3D를 이용한 실습 - (3) - 모델 성능 개선(4)    | X | 2023.06.07 | X
